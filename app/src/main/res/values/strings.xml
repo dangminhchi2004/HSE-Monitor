@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ADC HSE</string>
+    <string name="app_full_title">ADC Daily HSE Inspection</string>
+    <string name="app_subtitle">Hệ thống Kiểm định An toàn Hiện trường</string>
+    <string name="hse_standard_code">Quy chuẩn An toàn ADC #HSE-402</string>
+    <string name="iso_document_code">ADC_IFR_EH_QC_01_PL07</string>
+    <string name="login_microsoft_sso">Đăng nhập bằng Microsoft 365</string>
+    <string name="copyright_footer">© 2026 ADC Industrial Operations • Bảo mật Entra ID</string>
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_history">Lịch sử</string>
+    <string name="nav_new_inspection">Kiểm tra</string>
+    <string name="nav_sync">Đồng bộ</string>
+    <string name="nav_settings">Cài đặt</string>
+</resources>

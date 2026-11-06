@@ -1,0 +1,6 @@
+{
+  "name": "ADC Daily HSE Inspection",
+  "description": "Ứng dụng kiểm định an toàn hiện trường nội bộ ADC (Offline-first SQLite Room & SharePoint Excel Sync) theo chuẩn biểu mẫu ADC_IFR_EH_QC_01_PL07.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
